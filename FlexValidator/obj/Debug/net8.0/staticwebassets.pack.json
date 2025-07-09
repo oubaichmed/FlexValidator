@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\OUBAICH\\FlexValidator\\FlexValidator\\wwwroot\\EasyValidationMessage.css",
+      "PackagePath": "staticwebassets\\EasyValidationMessage.css"
+    },
+    {
+      "Id": "D:\\OUBAICH\\FlexValidator\\FlexValidator\\wwwroot\\background.png",
+      "PackagePath": "staticwebassets\\background.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.FlexValidator.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.FlexValidator.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.FlexValidator.props",
+      "PackagePath": "build\\FlexValidator.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.FlexValidator.props",
+      "PackagePath": "buildMultiTargeting\\FlexValidator.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.FlexValidator.props",
+      "PackagePath": "buildTransitive\\FlexValidator.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

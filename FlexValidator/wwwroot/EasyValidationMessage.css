@@ -1,0 +1,101 @@
+﻿
+.ValidatorMessage {
+    color: red;
+}
+.ValidatorBubble {
+    visibility: visible;
+    min-width: 100px;
+    background-color: #FCFBFA;
+    color: red;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px;
+    position: absolute;
+    z-index: 1000001 !important;
+    bottom: 60%;
+    left: 20%;
+    margin-left: -60px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+    .ValidatorBubble::after {
+        content: "";
+        position: absolute;
+        top: 100%;
+        left: 10%;
+        margin-left: -5px;
+        border-width: 5px;
+        border-style: solid;
+        border-color: #FCFBFA transparent transparent transparent;
+        box-shadow: 0 1px 1px #FCFBFA;
+    }
+/*.ValidatorBubbleContainer {
+    margin: 90px auto;
+    background-color: #fff;
+    position: relative;
+}
+
+.ValidatorBubble {
+    position: absolute;
+    transform-origin: 0% 100%;
+    text-align: center;
+    background-color: white;
+    color: red;
+    border-radius: 10px;
+    max-width: 30em;
+    padding: 10px;
+    left: 110px;
+    top: -75px;
+    transform: scale(0);
+    animation-fill-mode: forwards;
+    animation-name: expand-bounce;
+    animation-duration: 0.25s;
+    z-index: 1000001 !important;
+}*/
+/* We need to add a tail to the speech bubble. This is done using
+the ::before pseudo-element. The tail's size is controlled by 
+its borders. The right and bottom borders are given a transparent
+color so that the tail still retains its shape while giving the
+desired look */
+
+/*.ValidatorBubble::before {
+    content: "";
+    display: block;
+    width: 0;
+    position: absolute;
+    bottom: -25px;
+    left: 5px;
+    border-style: solid;
+    border-width: 15px;
+    border-color: #5a5a5a transparent transparent #5a5a5a;
+    transform: rotate(10deg);
+    z-index: 1000001 !important;
+}*/
+
+/* Here the scale changes from 0 to 1. To add the bounciness 
+effect, the scale is set to 1.25 midway through the animation
+to give the animation a nicer effect. */
+/*@keyframes expand-bounce {
+    0% {
+        transform: scale(0);
+    }
+
+    50% {
+        transform: scale(1.25);
+    }
+
+    100% {
+        transform: scale(1);
+    }
+}*/
+
+/* Here the scale simply goes from 1 back to 0 */
+/*@keyframes shrink {
+    0% {
+        transform: scale(1);
+    }
+
+    100% {
+        transform: scale(0);
+    }
+}*/
