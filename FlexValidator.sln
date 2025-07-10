@@ -18,7 +18,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlexValidator.Samples", "sa
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Samples", "Samples", "{C0E96062-588F-48A3-8F25-813BA13DAEFE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlextValidator", "src\FlextValidator\FlextValidator.csproj", "{721A3E36-57AE-4FBA-A741-EC6BE4458075}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlexValidator", "src\FlexValidator\FlexValidator.csproj", "{721A3E36-57AE-4FBA-A741-EC6BE4458075}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

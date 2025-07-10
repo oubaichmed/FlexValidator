@@ -23,7 +23,7 @@
 	</ItemGroup>
 
 	<ItemGroup>
-	  <ProjectReference Include="..\..\src\FlextValidator\FlextValidator.csproj" />
+	  <ProjectReference Include="..\..\src\FlexValidator\FlexValidator.csproj" />
 	</ItemGroup>
 
 </Project>
