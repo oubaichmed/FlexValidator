@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\OUBAICH\\FlexValidator\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OUBAICH\\FlexValidator\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E0497C5-9279-4B4A-9D4B-C21E4EA7BCDB}|FlexValidator\\FlexValidator.csproj|d:\\oubaich\\flexvalidator\\flexvalidator\\flexvalidator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0E0497C5-9279-4B4A-9D4B-C21E4EA7BCDB}|FlexValidator\\FlexValidator.csproj|solutionrelative:flexvalidator\\flexvalidator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0E0497C5-9279-4B4A-9D4B-C21E4EA7BCDB}|FlexValidator\\FlexValidator.csproj|d:\\oubaich\\flexvalidator\\flexvalidator\\internal\\extensionsinternal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E0497C5-9279-4B4A-9D4B-C21E4EA7BCDB}|FlexValidator\\FlexValidator.csproj|solutionrelative:flexvalidator\\internal\\extensionsinternal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -338,7 +346,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 736,
-          "SelectedChildIndex": 65,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -354,20 +362,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ILanguageManager.cs",
-              "DocumentMoniker": "D:\\OUBAICH\\FlexValidator\\FlexValidator\\Resources\\ILanguageManager.cs",
-              "RelativeDocumentMoniker": "FlexValidator\\Resources\\ILanguageManager.cs",
-              "ToolTip": "D:\\OUBAICH\\FlexValidator\\FlexValidator\\Resources\\ILanguageManager.cs",
-              "RelativeToolTip": "FlexValidator\\Resources\\ILanguageManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T12:35:03.547Z",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\OUBAICH\\FlexValidator\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "D:\\OUBAICH\\FlexValidator\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAQBAAAAAAAAAAAQwDABAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-10T10:34:16.949Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
+              "Title": "FlexValidator.csproj",
+              "DocumentMoniker": "D:\\OUBAICH\\FlexValidator\\FlexValidator\\FlexValidator.csproj",
+              "RelativeDocumentMoniker": "FlexValidator\\FlexValidator.csproj",
+              "ToolTip": "D:\\OUBAICH\\FlexValidator\\FlexValidator\\FlexValidator.csproj",
+              "RelativeToolTip": "FlexValidator\\FlexValidator.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-09T14:21:05.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "StringEnumValidator.cs",
               "DocumentMoniker": "D:\\OUBAICH\\FlexValidator\\FlexValidator\\Validators\\StringEnumValidator.cs",
               "RelativeDocumentMoniker": "FlexValidator\\Validators\\StringEnumValidator.cs",
@@ -375,12 +396,11 @@
               "RelativeToolTip": "FlexValidator\\Validators\\StringEnumValidator.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAowBkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T12:29:35.538Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T12:29:35.538Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "RegularExpressionValidator.cs",
               "DocumentMoniker": "D:\\OUBAICH\\FlexValidator\\FlexValidator\\Validators\\RegularExpressionValidator.cs",
               "RelativeDocumentMoniker": "FlexValidator\\Validators\\RegularExpressionValidator.cs",
@@ -388,12 +408,11 @@
               "RelativeToolTip": "FlexValidator\\Validators\\RegularExpressionValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T12:29:32.355Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T12:29:32.355Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "RangeValidator.cs",
               "DocumentMoniker": "D:\\OUBAICH\\FlexValidator\\FlexValidator\\Validators\\RangeValidator.cs",
               "RelativeDocumentMoniker": "FlexValidator\\Validators\\RangeValidator.cs",
@@ -401,12 +420,11 @@
               "RelativeToolTip": "FlexValidator\\Validators\\RangeValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T12:29:28.97Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T12:29:28.97Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "PropertyValidator.cs",
               "DocumentMoniker": "D:\\OUBAICH\\FlexValidator\\FlexValidator\\Validators\\PropertyValidator.cs",
               "RelativeDocumentMoniker": "FlexValidator\\Validators\\PropertyValidator.cs",
@@ -414,12 +432,11 @@
               "RelativeToolTip": "FlexValidator\\Validators\\PropertyValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T12:29:25.362Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T12:29:25.362Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "PredicateValidator.cs",
               "DocumentMoniker": "D:\\OUBAICH\\FlexValidator\\FlexValidator\\Validators\\PredicateValidator.cs",
               "RelativeDocumentMoniker": "FlexValidator\\Validators\\PredicateValidator.cs",
@@ -427,12 +444,11 @@
               "RelativeToolTip": "FlexValidator\\Validators\\PredicateValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T12:29:21.618Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T12:29:21.618Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "PrecisionScaleValidator.cs",
               "DocumentMoniker": "D:\\OUBAICH\\FlexValidator\\FlexValidator\\Validators\\PrecisionScaleValidator.cs",
               "RelativeDocumentMoniker": "FlexValidator\\Validators\\PrecisionScaleValidator.cs",
@@ -440,12 +456,11 @@
               "RelativeToolTip": "FlexValidator\\Validators\\PrecisionScaleValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T12:29:17.802Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T12:29:17.802Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "PolymorphicValidator.cs",
               "DocumentMoniker": "D:\\OUBAICH\\FlexValidator\\FlexValidator\\Validators\\PolymorphicValidator.cs",
               "RelativeDocumentMoniker": "FlexValidator\\Validators\\PolymorphicValidator.cs",
@@ -453,12 +468,11 @@
               "RelativeToolTip": "FlexValidator\\Validators\\PolymorphicValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T12:29:06.311Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T12:29:06.311Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "NullValidator.cs",
               "DocumentMoniker": "D:\\OUBAICH\\FlexValidator\\FlexValidator\\Validators\\NullValidator.cs",
               "RelativeDocumentMoniker": "FlexValidator\\Validators\\NullValidator.cs",
@@ -466,12 +480,35 @@
               "RelativeToolTip": "FlexValidator\\Validators\\NullValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T12:29:02.865Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T12:29:02.865Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 2,
+              "Title": "ExtensionsInternal.cs",
+              "DocumentMoniker": "D:\\OUBAICH\\FlexValidator\\FlexValidator\\Internal\\ExtensionsInternal.cs",
+              "RelativeDocumentMoniker": "FlexValidator\\Internal\\ExtensionsInternal.cs",
+              "ToolTip": "D:\\OUBAICH\\FlexValidator\\FlexValidator\\Internal\\ExtensionsInternal.cs",
+              "RelativeToolTip": "FlexValidator\\Internal\\ExtensionsInternal.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T12:21:18.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ILanguageManager.cs",
+              "DocumentMoniker": "D:\\OUBAICH\\FlexValidator\\FlexValidator\\Resources\\ILanguageManager.cs",
+              "RelativeDocumentMoniker": "FlexValidator\\Resources\\ILanguageManager.cs",
+              "ToolTip": "D:\\OUBAICH\\FlexValidator\\FlexValidator\\Resources\\ILanguageManager.cs",
+              "RelativeToolTip": "FlexValidator\\Resources\\ILanguageManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T12:35:03.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "NotNullValidator.cs",
               "DocumentMoniker": "D:\\OUBAICH\\FlexValidator\\FlexValidator\\Validators\\NotNullValidator.cs",
               "RelativeDocumentMoniker": "FlexValidator\\Validators\\NotNullValidator.cs",
@@ -479,12 +516,11 @@
               "RelativeToolTip": "FlexValidator\\Validators\\NotNullValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T12:28:58.997Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T12:28:58.997Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "NotEqualValidator.cs",
               "DocumentMoniker": "D:\\OUBAICH\\FlexValidator\\FlexValidator\\Validators\\NotEqualValidator.cs",
               "RelativeDocumentMoniker": "FlexValidator\\Validators\\NotEqualValidator.cs",
@@ -492,12 +528,11 @@
               "RelativeToolTip": "FlexValidator\\Validators\\NotEqualValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T12:28:55.219Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T12:28:55.219Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "NotEmptyValidator.cs",
               "DocumentMoniker": "D:\\OUBAICH\\FlexValidator\\FlexValidator\\Validators\\NotEmptyValidator.cs",
               "RelativeDocumentMoniker": "FlexValidator\\Validators\\NotEmptyValidator.cs",
@@ -505,12 +540,11 @@
               "RelativeToolTip": "FlexValidator\\Validators\\NotEmptyValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T12:28:51.27Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T12:28:51.27Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "NoopPropertyValidator.cs",
               "DocumentMoniker": "D:\\OUBAICH\\FlexValidator\\FlexValidator\\Validators\\NoopPropertyValidator.cs",
               "RelativeDocumentMoniker": "FlexValidator\\Validators\\NoopPropertyValidator.cs",
@@ -518,12 +552,11 @@
               "RelativeToolTip": "FlexValidator\\Validators\\NoopPropertyValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T12:28:46.605Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T12:28:46.605Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "LessThanValidator.cs",
               "DocumentMoniker": "D:\\OUBAICH\\FlexValidator\\FlexValidator\\Validators\\LessThanValidator.cs",
               "RelativeDocumentMoniker": "FlexValidator\\Validators\\LessThanValidator.cs",
@@ -531,12 +564,11 @@
               "RelativeToolTip": "FlexValidator\\Validators\\LessThanValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T12:28:43.149Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T12:28:43.149Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "LessThanOrEqualValidator.cs",
               "DocumentMoniker": "D:\\OUBAICH\\FlexValidator\\FlexValidator\\Validators\\LessThanOrEqualValidator.cs",
               "RelativeDocumentMoniker": "FlexValidator\\Validators\\LessThanOrEqualValidator.cs",
@@ -544,12 +576,11 @@
               "RelativeToolTip": "FlexValidator\\Validators\\LessThanOrEqualValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T12:28:39.141Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T12:28:39.141Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "LengthValidator.cs",
               "DocumentMoniker": "D:\\OUBAICH\\FlexValidator\\FlexValidator\\Validators\\LengthValidator.cs",
               "RelativeDocumentMoniker": "FlexValidator\\Validators\\LengthValidator.cs",
@@ -557,12 +588,11 @@
               "RelativeToolTip": "FlexValidator\\Validators\\LengthValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T12:28:34.129Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T12:28:34.129Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "IPropertyValidator.cs",
               "DocumentMoniker": "D:\\OUBAICH\\FlexValidator\\FlexValidator\\Validators\\IPropertyValidator.cs",
               "RelativeDocumentMoniker": "FlexValidator\\Validators\\IPropertyValidator.cs",
@@ -570,12 +600,11 @@
               "RelativeToolTip": "FlexValidator\\Validators\\IPropertyValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T12:28:30.771Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T12:28:30.771Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "InclusiveBetweenValidator.cs",
               "DocumentMoniker": "D:\\OUBAICH\\FlexValidator\\FlexValidator\\Validators\\InclusiveBetweenValidator.cs",
               "RelativeDocumentMoniker": "FlexValidator\\Validators\\InclusiveBetweenValidator.cs",
@@ -583,12 +612,11 @@
               "RelativeToolTip": "FlexValidator\\Validators\\InclusiveBetweenValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T12:28:27.219Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T12:28:27.219Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "GreaterThanValidator.cs",
               "DocumentMoniker": "D:\\OUBAICH\\FlexValidator\\FlexValidator\\Validators\\GreaterThanValidator.cs",
               "RelativeDocumentMoniker": "FlexValidator\\Validators\\GreaterThanValidator.cs",
@@ -596,12 +624,11 @@
               "RelativeToolTip": "FlexValidator\\Validators\\GreaterThanValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T12:28:23.648Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T12:28:23.648Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "GreaterThanOrEqualValidator.cs",
               "DocumentMoniker": "D:\\OUBAICH\\FlexValidator\\FlexValidator\\Validators\\GreaterThanOrEqualValidator.cs",
               "RelativeDocumentMoniker": "FlexValidator\\Validators\\GreaterThanOrEqualValidator.cs",
@@ -609,12 +636,11 @@
               "RelativeToolTip": "FlexValidator\\Validators\\GreaterThanOrEqualValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T12:28:20.511Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T12:28:20.511Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "ExclusiveBetweenValidator.cs",
               "DocumentMoniker": "D:\\OUBAICH\\FlexValidator\\FlexValidator\\Validators\\ExclusiveBetweenValidator.cs",
               "RelativeDocumentMoniker": "FlexValidator\\Validators\\ExclusiveBetweenValidator.cs",
@@ -622,12 +648,11 @@
               "RelativeToolTip": "FlexValidator\\Validators\\ExclusiveBetweenValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T12:28:17.137Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T12:28:17.137Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "EqualValidator.cs",
               "DocumentMoniker": "D:\\OUBAICH\\FlexValidator\\FlexValidator\\Validators\\EqualValidator.cs",
               "RelativeDocumentMoniker": "FlexValidator\\Validators\\EqualValidator.cs",
@@ -635,12 +660,11 @@
               "RelativeToolTip": "FlexValidator\\Validators\\EqualValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T12:28:13.373Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T12:28:13.373Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "EnumValidator.cs",
               "DocumentMoniker": "D:\\OUBAICH\\FlexValidator\\FlexValidator\\Validators\\EnumValidator.cs",
               "RelativeDocumentMoniker": "FlexValidator\\Validators\\EnumValidator.cs",
@@ -648,12 +672,11 @@
               "RelativeToolTip": "FlexValidator\\Validators\\EnumValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T12:28:08.888Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T12:28:08.888Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 28,
               "Title": "EmptyValidator.cs",
               "DocumentMoniker": "D:\\OUBAICH\\FlexValidator\\FlexValidator\\Validators\\EmptyValidator.cs",
               "RelativeDocumentMoniker": "FlexValidator\\Validators\\EmptyValidator.cs",
@@ -661,12 +684,11 @@
               "RelativeToolTip": "FlexValidator\\Validators\\EmptyValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T12:28:04.218Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T12:28:04.218Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 29,
               "Title": "EmailValidator.cs",
               "DocumentMoniker": "D:\\OUBAICH\\FlexValidator\\FlexValidator\\Validators\\EmailValidator.cs",
               "RelativeDocumentMoniker": "FlexValidator\\Validators\\EmailValidator.cs",
@@ -674,12 +696,11 @@
               "RelativeToolTip": "FlexValidator\\Validators\\EmailValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T12:27:58.298Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T12:27:58.298Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 30,
               "Title": "CreditCardValidator.cs",
               "DocumentMoniker": "D:\\OUBAICH\\FlexValidator\\FlexValidator\\Validators\\CreditCardValidator.cs",
               "RelativeDocumentMoniker": "FlexValidator\\Validators\\CreditCardValidator.cs",
@@ -687,12 +708,11 @@
               "RelativeToolTip": "FlexValidator\\Validators\\CreditCardValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T12:27:54.545Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T12:27:54.545Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 31,
               "Title": "ComparableComparer.cs",
               "DocumentMoniker": "D:\\OUBAICH\\FlexValidator\\FlexValidator\\Validators\\ComparableComparer.cs",
               "RelativeDocumentMoniker": "FlexValidator\\Validators\\ComparableComparer.cs",
@@ -700,12 +720,11 @@
               "RelativeToolTip": "FlexValidator\\Validators\\ComparableComparer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T12:27:49.418Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T12:27:49.418Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 32,
               "Title": "ChildValidatorAdaptor.cs",
               "DocumentMoniker": "D:\\OUBAICH\\FlexValidator\\FlexValidator\\Validators\\ChildValidatorAdaptor.cs",
               "RelativeDocumentMoniker": "FlexValidator\\Validators\\ChildValidatorAdaptor.cs",
@@ -713,12 +732,11 @@
               "RelativeToolTip": "FlexValidator\\Validators\\ChildValidatorAdaptor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T12:27:46.432Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T12:27:46.432Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 33,
               "Title": "AsyncPropertyValidator.cs",
               "DocumentMoniker": "D:\\OUBAICH\\FlexValidator\\FlexValidator\\Validators\\AsyncPropertyValidator.cs",
               "RelativeDocumentMoniker": "FlexValidator\\Validators\\AsyncPropertyValidator.cs",
@@ -726,12 +744,11 @@
               "RelativeToolTip": "FlexValidator\\Validators\\AsyncPropertyValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T12:27:39.711Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T12:27:39.711Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 34,
               "Title": "AsyncPredicateValidator.cs",
               "DocumentMoniker": "D:\\OUBAICH\\FlexValidator\\FlexValidator\\Validators\\AsyncPredicateValidator.cs",
               "RelativeDocumentMoniker": "FlexValidator\\Validators\\AsyncPredicateValidator.cs",
@@ -739,12 +756,11 @@
               "RelativeToolTip": "FlexValidator\\Validators\\AsyncPredicateValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T12:27:34.81Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T12:27:34.81Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 35,
               "Title": "AbstractComparisonValidator.cs",
               "DocumentMoniker": "D:\\OUBAICH\\FlexValidator\\FlexValidator\\Validators\\AbstractComparisonValidator.cs",
               "RelativeDocumentMoniker": "FlexValidator\\Validators\\AbstractComparisonValidator.cs",
@@ -752,12 +768,11 @@
               "RelativeToolTip": "FlexValidator\\Validators\\AbstractComparisonValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T12:27:01.811Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T12:27:01.811Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 36,
               "Title": "ValidatorOptions.cs",
               "DocumentMoniker": "D:\\OUBAICH\\FlexValidator\\FlexValidator\\ValidatorOptions.cs",
               "RelativeDocumentMoniker": "FlexValidator\\ValidatorOptions.cs",
@@ -765,12 +780,11 @@
               "RelativeToolTip": "FlexValidator\\ValidatorOptions.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAAABMAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T12:26:31.521Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T12:26:31.521Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 37,
               "Title": "ValidatorFactoryBase.cs",
               "DocumentMoniker": "D:\\OUBAICH\\FlexValidator\\FlexValidator\\ValidatorFactoryBase.cs",
               "RelativeDocumentMoniker": "FlexValidator\\ValidatorFactoryBase.cs",
@@ -778,12 +792,11 @@
               "RelativeToolTip": "FlexValidator\\ValidatorFactoryBase.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T12:26:26.704Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T12:26:26.704Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 38,
               "Title": "ValidatorDescriptor.cs",
               "DocumentMoniker": "D:\\OUBAICH\\FlexValidator\\FlexValidator\\ValidatorDescriptor.cs",
               "RelativeDocumentMoniker": "FlexValidator\\ValidatorDescriptor.cs",
@@ -791,12 +804,11 @@
               "RelativeToolTip": "FlexValidator\\ValidatorDescriptor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T12:26:22.459Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T12:26:22.459Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 40,
               "Title": "ValidationException.cs",
               "DocumentMoniker": "D:\\OUBAICH\\FlexValidator\\FlexValidator\\ValidationException.cs",
               "RelativeDocumentMoniker": "FlexValidator\\ValidationException.cs",
@@ -804,12 +816,11 @@
               "RelativeToolTip": "FlexValidator\\ValidationException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T12:26:04.138Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T12:26:04.138Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 41,
               "Title": "Syntax.cs",
               "DocumentMoniker": "D:\\OUBAICH\\FlexValidator\\FlexValidator\\Syntax.cs",
               "RelativeDocumentMoniker": "FlexValidator\\Syntax.cs",
@@ -817,12 +828,11 @@
               "RelativeToolTip": "FlexValidator\\Syntax.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T12:25:58.852Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T12:25:58.852Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 43,
               "Title": "IValidatorFactory.cs",
               "DocumentMoniker": "D:\\OUBAICH\\FlexValidator\\FlexValidator\\IValidatorFactory.cs",
               "RelativeDocumentMoniker": "FlexValidator\\IValidatorFactory.cs",
@@ -830,12 +840,11 @@
               "RelativeToolTip": "FlexValidator\\IValidatorFactory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T12:25:45.349Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T12:25:45.349Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 44,
               "Title": "IValidatorDescriptor.cs",
               "DocumentMoniker": "D:\\OUBAICH\\FlexValidator\\FlexValidator\\IValidatorDescriptor.cs",
               "RelativeDocumentMoniker": "FlexValidator\\IValidatorDescriptor.cs",
@@ -843,12 +852,11 @@
               "RelativeToolTip": "FlexValidator\\IValidatorDescriptor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T12:25:39.375Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T12:25:39.375Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 46,
               "Title": "IValidationRuleInternal.cs",
               "DocumentMoniker": "D:\\OUBAICH\\FlexValidator\\FlexValidator\\IValidationRuleInternal.cs",
               "RelativeDocumentMoniker": "FlexValidator\\IValidationRuleInternal.cs",
@@ -856,12 +864,11 @@
               "RelativeToolTip": "FlexValidator\\IValidationRuleInternal.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T12:25:23.463Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T12:25:23.463Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 48,
               "Title": "IValidationContext.cs",
               "DocumentMoniker": "D:\\OUBAICH\\FlexValidator\\FlexValidator\\IValidationContext.cs",
               "RelativeDocumentMoniker": "FlexValidator\\IValidationContext.cs",
@@ -869,12 +876,11 @@
               "RelativeToolTip": "FlexValidator\\IValidationContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T12:25:15.945Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T12:25:15.945Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 49,
               "Title": "InlineValidator.cs",
               "DocumentMoniker": "D:\\OUBAICH\\FlexValidator\\FlexValidator\\InlineValidator.cs",
               "RelativeDocumentMoniker": "FlexValidator\\InlineValidator.cs",
@@ -882,12 +888,11 @@
               "RelativeToolTip": "FlexValidator\\InlineValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T12:25:10.147Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T12:25:10.147Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 50,
               "Title": "ICollectionRule.cs",
               "DocumentMoniker": "D:\\OUBAICH\\FlexValidator\\FlexValidator\\ICollectionRule.cs",
               "RelativeDocumentMoniker": "FlexValidator\\ICollectionRule.cs",
@@ -895,12 +900,11 @@
               "RelativeToolTip": "FlexValidator\\ICollectionRule.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T12:25:05.166Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T12:25:05.166Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 51,
               "Title": "Enums.cs",
               "DocumentMoniker": "D:\\OUBAICH\\FlexValidator\\FlexValidator\\Enums.cs",
               "RelativeDocumentMoniker": "FlexValidator\\Enums.cs",
@@ -908,12 +912,11 @@
               "RelativeToolTip": "FlexValidator\\Enums.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T12:24:58.427Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T12:24:58.427Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 53,
               "Title": "DefaultValidatorOptions.cs",
               "DocumentMoniker": "D:\\OUBAICH\\FlexValidator\\FlexValidator\\DefaultValidatorOptions.cs",
               "RelativeDocumentMoniker": "FlexValidator\\DefaultValidatorOptions.cs",
@@ -921,12 +924,11 @@
               "RelativeToolTip": "FlexValidator\\DefaultValidatorOptions.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T12:24:05.634Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T12:24:05.634Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 56,
               "Title": "DefaultValidatorExtensions_Validate.cs",
               "DocumentMoniker": "D:\\OUBAICH\\FlexValidator\\FlexValidator\\DefaultValidatorExtensions_Validate.cs",
               "RelativeDocumentMoniker": "FlexValidator\\DefaultValidatorExtensions_Validate.cs",
@@ -934,12 +936,11 @@
               "RelativeToolTip": "FlexValidator\\DefaultValidatorExtensions_Validate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T12:24:01.253Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T12:24:01.253Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 57,
               "Title": "DefaultValidatorExtensions.cs",
               "DocumentMoniker": "D:\\OUBAICH\\FlexValidator\\FlexValidator\\DefaultValidatorExtensions.cs",
               "RelativeDocumentMoniker": "FlexValidator\\DefaultValidatorExtensions.cs",
@@ -947,12 +948,11 @@
               "RelativeToolTip": "FlexValidator\\DefaultValidatorExtensions.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T12:23:56.007Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T12:23:56.007Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 58,
               "Title": "AsyncValidatorInvokedSynchronouslyException.cs",
               "DocumentMoniker": "D:\\OUBAICH\\FlexValidator\\FlexValidator\\AsyncValidatorInvokedSynchronouslyException.cs",
               "RelativeDocumentMoniker": "FlexValidator\\AsyncValidatorInvokedSynchronouslyException.cs",
@@ -960,12 +960,11 @@
               "RelativeToolTip": "FlexValidator\\AsyncValidatorInvokedSynchronouslyException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T12:23:49.7Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T12:23:49.7Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 54,
               "Title": "AssemblyScanner.cs",
               "DocumentMoniker": "D:\\OUBAICH\\FlexValidator\\FlexValidator\\AssemblyScanner.cs",
               "RelativeDocumentMoniker": "FlexValidator\\AssemblyScanner.cs",
@@ -973,12 +972,11 @@
               "RelativeToolTip": "FlexValidator\\AssemblyScanner.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T12:23:45.857Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T12:23:45.857Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 59,
               "Title": "AssemblyInfo.FluentValidation.cs",
               "DocumentMoniker": "D:\\OUBAICH\\FlexValidator\\FlexValidator\\AssemblyInfo.FluentValidation.cs",
               "RelativeDocumentMoniker": "FlexValidator\\AssemblyInfo.FluentValidation.cs",
@@ -986,12 +984,11 @@
               "RelativeToolTip": "FlexValidator\\AssemblyInfo.FluentValidation.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T12:23:23.799Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T12:23:23.799Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "AbstractValidator.cs",
               "DocumentMoniker": "D:\\OUBAICH\\FlexValidator\\FlexValidator\\AbstractValidator.cs",
               "RelativeDocumentMoniker": "FlexValidator\\AbstractValidator.cs",
@@ -999,12 +996,11 @@
               "RelativeToolTip": "FlexValidator\\AbstractValidator.cs",
               "ViewState": "AgIAAGMAAAAAAAAAAAAAAHkAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T12:23:17.595Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T12:23:17.595Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 61,
               "Title": "TrackingCollection.cs",
               "DocumentMoniker": "D:\\OUBAICH\\FlexValidator\\FlexValidator\\Internal\\TrackingCollection.cs",
               "RelativeDocumentMoniker": "FlexValidator\\Internal\\TrackingCollection.cs",
@@ -1012,12 +1008,11 @@
               "RelativeToolTip": "FlexValidator\\Internal\\TrackingCollection.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T12:22:13.348Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T12:22:13.348Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 62,
               "Title": "RulesetValidatorSelector.cs",
               "DocumentMoniker": "D:\\OUBAICH\\FlexValidator\\FlexValidator\\Internal\\RulesetValidatorSelector.cs",
               "RelativeDocumentMoniker": "FlexValidator\\Internal\\RulesetValidatorSelector.cs",
@@ -1025,12 +1020,11 @@
               "RelativeToolTip": "FlexValidator\\Internal\\RulesetValidatorSelector.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T12:22:10.365Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T12:22:10.365Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 63,
               "Title": "RuleComponentForNullableStruct.cs",
               "DocumentMoniker": "D:\\OUBAICH\\FlexValidator\\FlexValidator\\Internal\\RuleComponentForNullableStruct.cs",
               "RelativeDocumentMoniker": "FlexValidator\\Internal\\RuleComponentForNullableStruct.cs",
@@ -1038,12 +1032,11 @@
               "RelativeToolTip": "FlexValidator\\Internal\\RuleComponentForNullableStruct.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T12:22:06.753Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T12:22:06.753Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 64,
               "Title": "RuleComponent.cs",
               "DocumentMoniker": "D:\\OUBAICH\\FlexValidator\\FlexValidator\\Internal\\RuleComponent.cs",
               "RelativeDocumentMoniker": "FlexValidator\\Internal\\RuleComponent.cs",
@@ -1051,12 +1044,11 @@
               "RelativeToolTip": "FlexValidator\\Internal\\RuleComponent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T12:22:03.104Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T12:22:03.104Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 65,
               "Title": "RuleBuilder.cs",
               "DocumentMoniker": "D:\\OUBAICH\\FlexValidator\\FlexValidator\\Internal\\RuleBuilder.cs",
               "RelativeDocumentMoniker": "FlexValidator\\Internal\\RuleBuilder.cs",
@@ -1064,12 +1056,11 @@
               "RelativeToolTip": "FlexValidator\\Internal\\RuleBuilder.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T12:21:59.586Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T12:21:59.586Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 66,
               "Title": "RuleBase.cs",
               "DocumentMoniker": "D:\\OUBAICH\\FlexValidator\\FlexValidator\\Internal\\RuleBase.cs",
               "RelativeDocumentMoniker": "FlexValidator\\Internal\\RuleBase.cs",
@@ -1077,12 +1068,11 @@
               "RelativeToolTip": "FlexValidator\\Internal\\RuleBase.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T12:21:55.928Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T12:21:55.928Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 67,
               "Title": "PropertyRule.cs",
               "DocumentMoniker": "D:\\OUBAICH\\FlexValidator\\FlexValidator\\Internal\\PropertyRule.cs",
               "RelativeDocumentMoniker": "FlexValidator\\Internal\\PropertyRule.cs",
@@ -1090,12 +1080,11 @@
               "RelativeToolTip": "FlexValidator\\Internal\\PropertyRule.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T12:21:51.166Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T12:21:51.166Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 68,
               "Title": "PropertyChain.cs",
               "DocumentMoniker": "D:\\OUBAICH\\FlexValidator\\FlexValidator\\Internal\\PropertyChain.cs",
               "RelativeDocumentMoniker": "FlexValidator\\Internal\\PropertyChain.cs",
@@ -1103,12 +1092,11 @@
               "RelativeToolTip": "FlexValidator\\Internal\\PropertyChain.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T12:21:47.563Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T12:21:47.563Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 69,
               "Title": "MessageFormatter.cs",
               "DocumentMoniker": "D:\\OUBAICH\\FlexValidator\\FlexValidator\\Internal\\MessageFormatter.cs",
               "RelativeDocumentMoniker": "FlexValidator\\Internal\\MessageFormatter.cs",
@@ -1116,12 +1104,11 @@
               "RelativeToolTip": "FlexValidator\\Internal\\MessageFormatter.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T12:21:40.609Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T12:21:40.609Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 68,
+              "DocumentIndex": 70,
               "Title": "MessageBuilderContext.cs",
               "DocumentMoniker": "D:\\OUBAICH\\FlexValidator\\FlexValidator\\Internal\\MessageBuilderContext.cs",
               "RelativeDocumentMoniker": "FlexValidator\\Internal\\MessageBuilderContext.cs",
@@ -1129,12 +1116,11 @@
               "RelativeToolTip": "FlexValidator\\Internal\\MessageBuilderContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T12:21:37.415Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T12:21:37.415Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 71,
+              "DocumentIndex": 73,
               "Title": "IRuleComponent.cs",
               "DocumentMoniker": "D:\\OUBAICH\\FlexValidator\\FlexValidator\\Internal\\IRuleComponent.cs",
               "RelativeDocumentMoniker": "FlexValidator\\Internal\\IRuleComponent.cs",
@@ -1142,12 +1128,11 @@
               "RelativeToolTip": "FlexValidator\\Internal\\IRuleComponent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T12:21:29.635Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T12:21:29.635Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 72,
+              "DocumentIndex": 74,
               "Title": "IncludeRule.cs",
               "DocumentMoniker": "D:\\OUBAICH\\FlexValidator\\FlexValidator\\Internal\\IncludeRule.cs",
               "RelativeDocumentMoniker": "FlexValidator\\Internal\\IncludeRule.cs",
@@ -1155,25 +1140,11 @@
               "RelativeToolTip": "FlexValidator\\Internal\\IncludeRule.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T12:21:24.517Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T12:21:24.517Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ExtensionsInternal.cs",
-              "DocumentMoniker": "D:\\OUBAICH\\FlexValidator\\FlexValidator\\Internal\\ExtensionsInternal.cs",
-              "RelativeDocumentMoniker": "FlexValidator\\Internal\\ExtensionsInternal.cs",
-              "ToolTip": "D:\\OUBAICH\\FlexValidator\\FlexValidator\\Internal\\ExtensionsInternal.cs",
-              "RelativeToolTip": "FlexValidator\\Internal\\ExtensionsInternal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T12:21:18.66Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 73,
+              "DocumentIndex": 75,
               "Title": "Extensions.cs",
               "DocumentMoniker": "D:\\OUBAICH\\FlexValidator\\FlexValidator\\Internal\\Extensions.cs",
               "RelativeDocumentMoniker": "FlexValidator\\Internal\\Extensions.cs",
@@ -1181,12 +1152,11 @@
               "RelativeToolTip": "FlexValidator\\Internal\\Extensions.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T12:21:12.775Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T12:21:12.775Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 74,
+              "DocumentIndex": 76,
               "Title": "DefaultValidatorSelector.cs",
               "DocumentMoniker": "D:\\OUBAICH\\FlexValidator\\FlexValidator\\Internal\\DefaultValidatorSelector.cs",
               "RelativeDocumentMoniker": "FlexValidator\\Internal\\DefaultValidatorSelector.cs",
@@ -1194,12 +1164,11 @@
               "RelativeToolTip": "FlexValidator\\Internal\\DefaultValidatorSelector.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T12:21:08.935Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T12:21:08.935Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 75,
+              "DocumentIndex": 77,
               "Title": "ConditionBuilder.cs",
               "DocumentMoniker": "D:\\OUBAICH\\FlexValidator\\FlexValidator\\Internal\\ConditionBuilder.cs",
               "RelativeDocumentMoniker": "FlexValidator\\Internal\\ConditionBuilder.cs",
@@ -1207,12 +1176,11 @@
               "RelativeToolTip": "FlexValidator\\Internal\\ConditionBuilder.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T12:21:04.887Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T12:21:04.887Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 76,
+              "DocumentIndex": 78,
               "Title": "CompositeValidatorSelector.cs",
               "DocumentMoniker": "D:\\OUBAICH\\FlexValidator\\FlexValidator\\Internal\\CompositeValidatorSelector.cs",
               "RelativeDocumentMoniker": "FlexValidator\\Internal\\CompositeValidatorSelector.cs",
@@ -1220,12 +1188,11 @@
               "RelativeToolTip": "FlexValidator\\Internal\\CompositeValidatorSelector.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T12:21:01.697Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T12:21:01.697Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 77,
+              "DocumentIndex": 79,
               "Title": "CollectionPropertyRule.cs",
               "DocumentMoniker": "D:\\OUBAICH\\FlexValidator\\FlexValidator\\Internal\\CollectionPropertyRule.cs",
               "RelativeDocumentMoniker": "FlexValidator\\Internal\\CollectionPropertyRule.cs",
@@ -1233,12 +1200,11 @@
               "RelativeToolTip": "FlexValidator\\Internal\\CollectionPropertyRule.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T12:20:57.516Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T12:20:57.516Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 78,
+              "DocumentIndex": 80,
               "Title": "ChildRulesContainer.cs",
               "DocumentMoniker": "D:\\OUBAICH\\FlexValidator\\FlexValidator\\Internal\\ChildRulesContainer.cs",
               "RelativeDocumentMoniker": "FlexValidator\\Internal\\ChildRulesContainer.cs",
@@ -1246,12 +1212,11 @@
               "RelativeToolTip": "FlexValidator\\Internal\\ChildRulesContainer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T12:20:25.003Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T12:20:25.003Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 79,
+              "DocumentIndex": 81,
               "Title": "AccessorCache.cs",
               "DocumentMoniker": "D:\\OUBAICH\\FlexValidator\\FlexValidator\\Internal\\AccessorCache.cs",
               "RelativeDocumentMoniker": "FlexValidator\\Internal\\AccessorCache.cs",
@@ -1259,12 +1224,11 @@
               "RelativeToolTip": "FlexValidator\\Internal\\AccessorCache.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T12:20:07.434Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T12:20:07.434Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 47,
               "Title": "IValidationRule.cs",
               "DocumentMoniker": "D:\\OUBAICH\\FlexValidator\\FlexValidator\\IValidationRule.cs",
               "RelativeDocumentMoniker": "FlexValidator\\IValidationRule.cs",
@@ -1272,12 +1236,11 @@
               "RelativeToolTip": "FlexValidator\\IValidationRule.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T12:17:02.505Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T12:17:02.505Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 70,
+              "DocumentIndex": 72,
               "Title": "IValidatorSelector.cs",
               "DocumentMoniker": "D:\\OUBAICH\\FlexValidator\\FlexValidator\\Internal\\IValidatorSelector.cs",
               "RelativeDocumentMoniker": "FlexValidator\\Internal\\IValidatorSelector.cs",
@@ -1285,12 +1248,11 @@
               "RelativeToolTip": "FlexValidator\\Internal\\IValidatorSelector.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T12:16:10.897Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T12:16:10.897Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 69,
+              "DocumentIndex": 71,
               "Title": "MemberNameValidatorSelector.cs",
               "DocumentMoniker": "D:\\OUBAICH\\FlexValidator\\FlexValidator\\Internal\\MemberNameValidatorSelector.cs",
               "RelativeDocumentMoniker": "FlexValidator\\Internal\\MemberNameValidatorSelector.cs",
@@ -1298,12 +1260,11 @@
               "RelativeToolTip": "FlexValidator\\Internal\\MemberNameValidatorSelector.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T12:15:23.423Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T12:15:23.423Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 60,
               "Title": "ValidationStrategy.cs",
               "DocumentMoniker": "D:\\OUBAICH\\FlexValidator\\FlexValidator\\Internal\\ValidationStrategy.cs",
               "RelativeDocumentMoniker": "FlexValidator\\Internal\\ValidationStrategy.cs",
@@ -1311,12 +1272,11 @@
               "RelativeToolTip": "FlexValidator\\Internal\\ValidationStrategy.cs",
               "ViewState": "AgIAAGgAAAAAAAAAAAAAAHoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T12:13:10.606Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T12:13:10.606Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 80,
+              "DocumentIndex": 82,
               "Title": "ValidationResult.cs",
               "DocumentMoniker": "D:\\OUBAICH\\FlexValidator\\FlexValidator\\Results\\ValidationResult.cs",
               "RelativeDocumentMoniker": "FlexValidator\\Results\\ValidationResult.cs",
@@ -1324,12 +1284,11 @@
               "RelativeToolTip": "FlexValidator\\Results\\ValidationResult.cs",
               "ViewState": "AgIAAB4AAAAAAAAAAAAowAcAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T12:07:21.989Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T12:07:21.989Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 81,
+              "DocumentIndex": 83,
               "Title": "ValidationFailure.cs",
               "DocumentMoniker": "D:\\OUBAICH\\FlexValidator\\FlexValidator\\Results\\ValidationFailure.cs",
               "RelativeDocumentMoniker": "FlexValidator\\Results\\ValidationFailure.cs",
@@ -1337,12 +1296,11 @@
               "RelativeToolTip": "FlexValidator\\Results\\ValidationFailure.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAowAkAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T12:05:47.361Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T12:05:47.361Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 39,
               "Title": "ValidationResult.cs",
               "DocumentMoniker": "D:\\OUBAICH\\FlexValidator\\FlexValidator\\ValidationResult.cs",
               "RelativeDocumentMoniker": "FlexValidator\\ValidationResult.cs",
@@ -1350,12 +1308,11 @@
               "RelativeToolTip": "FlexValidator\\ValidationResult.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T12:03:16.122Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T12:03:16.122Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 45,
               "Title": "IValidator.cs",
               "DocumentMoniker": "D:\\OUBAICH\\FlexValidator\\FlexValidator\\IValidator.cs",
               "RelativeDocumentMoniker": "FlexValidator\\IValidator.cs",
@@ -1363,12 +1320,11 @@
               "RelativeToolTip": "FlexValidator\\IValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T12:02:19.91Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T12:02:19.91Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 55,
               "Title": "EasyValidationMessage.razor",
               "DocumentMoniker": "D:\\OUBAICH\\FlexValidator\\FlexValidator\\EasyValidationMessage.razor",
               "RelativeDocumentMoniker": "FlexValidator\\EasyValidationMessage.razor",
@@ -1376,12 +1332,11 @@
               "RelativeToolTip": "FlexValidator\\EasyValidationMessage.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-09T12:00:57.814Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T12:00:57.814Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 42,
               "Title": "messageFormat.cs",
               "DocumentMoniker": "D:\\OUBAICH\\FlexValidator\\FlexValidator\\messageFormat.cs",
               "RelativeDocumentMoniker": "FlexValidator\\messageFormat.cs",
@@ -1389,12 +1344,11 @@
               "RelativeToolTip": "FlexValidator\\messageFormat.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T12:00:56.859Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T12:00:56.859Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 52,
               "Title": "EditContextEasyValidationExtensions.cs",
               "DocumentMoniker": "D:\\OUBAICH\\FlexValidator\\FlexValidator\\EditContextEasyValidationExtensions.cs",
               "RelativeDocumentMoniker": "FlexValidator\\EditContextEasyValidationExtensions.cs",
@@ -1402,21 +1356,19 @@
               "RelativeToolTip": "FlexValidator\\EditContextEasyValidationExtensions.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T12:00:55.784Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T12:00:55.784Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "EasyValidationValidator.cs",
               "DocumentMoniker": "D:\\OUBAICH\\FlexValidator\\FlexValidator\\EasyValidationValidator.cs",
               "RelativeDocumentMoniker": "FlexValidator\\EasyValidationValidator.cs",
-              "ToolTip": "D:\\OUBAICH\\FlexValidator\\FlexValidator\\EasyValidationValidator.cs \u2B24",
-              "RelativeToolTip": "FlexValidator\\EasyValidationValidator.cs \u2B24",
+              "ToolTip": "D:\\OUBAICH\\FlexValidator\\FlexValidator\\EasyValidationValidator.cs",
+              "RelativeToolTip": "FlexValidator\\EasyValidationValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T12:00:37.72Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T12:00:37.72Z"
             }
           ]
         },
