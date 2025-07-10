@@ -56,7 +56,7 @@
 	<ItemGroup>
 		<None Include="README.md" Pack="true" PackagePath="\" />
 		<None Include="..\..\..\LICENSE" Pack="true" PackagePath="\" Condition="Exists('..\..\..\LICENSE')" />
-		<None Include="flexvalidator-logo.png" Pack="true" PackagePath="\" />
+		<None Include="flexvalidator-logo.png" Pack="True" PackagePath="\" />
 
 	</ItemGroup>
 
