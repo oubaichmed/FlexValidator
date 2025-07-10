@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36202.13
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlexValidator", "src\FlextValidator\FlexValidator.csproj", "{1B78E72E-318C-CF48-1877-E905AD803EE7}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlexValidator.Tests", "tests\FlexValidator.Tests\FlexValidator.Tests.csproj", "{74D6A688-35B3-4C4D-AE21-E538831ED39C}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
@@ -20,16 +18,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlexValidator.Samples", "sa
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Samples", "Samples", "{C0E96062-588F-48A3-8F25-813BA13DAEFE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlextValidator", "src\FlextValidator\FlextValidator.csproj", "{721A3E36-57AE-4FBA-A741-EC6BE4458075}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{1B78E72E-318C-CF48-1877-E905AD803EE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1B78E72E-318C-CF48-1877-E905AD803EE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1B78E72E-318C-CF48-1877-E905AD803EE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1B78E72E-318C-CF48-1877-E905AD803EE7}.Release|Any CPU.Build.0 = Release|Any CPU
 		{74D6A688-35B3-4C4D-AE21-E538831ED39C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{74D6A688-35B3-4C4D-AE21-E538831ED39C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{74D6A688-35B3-4C4D-AE21-E538831ED39C}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -38,14 +34,18 @@ Global
 		{1A51082D-72CD-41B2-9314-3F95CC99AC68}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1A51082D-72CD-41B2-9314-3F95CC99AC68}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1A51082D-72CD-41B2-9314-3F95CC99AC68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{721A3E36-57AE-4FBA-A741-EC6BE4458075}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{721A3E36-57AE-4FBA-A741-EC6BE4458075}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{721A3E36-57AE-4FBA-A741-EC6BE4458075}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{721A3E36-57AE-4FBA-A741-EC6BE4458075}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{1B78E72E-318C-CF48-1877-E905AD803EE7} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{74D6A688-35B3-4C4D-AE21-E538831ED39C} = {E8A1DD90-E57D-4CDD-A1B4-A511388E43C4}
 		{1A51082D-72CD-41B2-9314-3F95CC99AC68} = {C0E96062-588F-48A3-8F25-813BA13DAEFE}
+		{721A3E36-57AE-4FBA-A741-EC6BE4458075} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {31369592-03BA-460C-91C9-ABC336417935}

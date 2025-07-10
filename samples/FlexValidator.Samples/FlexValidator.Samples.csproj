@@ -8,6 +8,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\src\FlextValidator\FlexValidator.csproj" />
+    <ProjectReference Include="..\..\src\FlextValidator\FlextValidator.csproj" />
   </ItemGroup>
 </Project>

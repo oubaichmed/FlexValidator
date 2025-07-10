@@ -1,11 +1,17 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
 	<PropertyGroup>
+		<!-- Class Library Configuration -->
 		<TargetFramework>net8.0</TargetFramework>
 		<Nullable>enable</Nullable>
 		<ImplicitUsings>enable</ImplicitUsings>
+		<LangVersion>latest</LangVersion>
+
+		<!-- Library Packaging -->
 		<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
 		<GenerateDocumentationFile>true</GenerateDocumentationFile>
+		<IncludeSymbols>true</IncludeSymbols>
+		<SymbolPackageFormat>snupkg</SymbolPackageFormat>
 
 		<!-- Package Information -->
 		<PackageId>FlexValidator</PackageId>
@@ -13,7 +19,7 @@
 		<Authors>OUBAICH Mohamed</Authors>
 		<Company>OUBAICH</Company>
 		<Description>A flexible and powerful validation library for .NET applications with fluent API support</Description>
-		<PackageTags>validation;dotnet;fluent;async;netcore</PackageTags>
+		<PackageTags>validation;dotnet;fluent;async;netcore;library</PackageTags>
 		<RepositoryUrl>https://github.com/oubaichmed/FlexValidator</RepositoryUrl>
 		<RepositoryType>git</RepositoryType>
 		<PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
@@ -25,9 +31,11 @@
 		<AssemblyVersion>1.0.0.0</AssemblyVersion>
 		<FileVersion>1.0.0.0</FileVersion>
 		<Product>FlexValidator</Product>
-		<AssemblyTitle>FlexValidator</AssemblyTitle>
+		<AssemblyTitle>FlexValidator Validation Library</AssemblyTitle>
+		<AssemblyDescription>A flexible validation library for .NET</AssemblyDescription>
 	</PropertyGroup>
 
+	<!-- Dependencies for Class Library -->
 	<ItemGroup>
 		<PackageReference Include="Microsoft.SourceLink.GitHub" Version="8.0.0">
 			<PrivateAssets>all</PrivateAssets>
@@ -40,12 +48,10 @@
 		</PackageReference>
 	</ItemGroup>
 
+	<!-- Package Content -->
 	<ItemGroup>
-		<None Include="D:\OUBAICH\FlexValidator\src\FlextValidator\.editorconfig" />
-	</ItemGroup>
-
-	<ItemGroup>
-	  <EditorConfigFiles Remove="D:\OUBAICH\FlexValidator\src\FlextValidator\.editorconfig" />
+		<None Include="README.md" Pack="true" PackagePath="\" />
+		<None Include="..\..\..\LICENSE" Pack="true" PackagePath="\" Condition="Exists('..\..\..\LICENSE')" />
 	</ItemGroup>
 
 </Project>
