@@ -197,7 +197,7 @@ public class CustomerController : ControllerBase
 
 ## 📚 Documentation
 
-For comprehensive documentation, please visit our [Wiki](https://github.com/yourusername/FlexValidator/wiki).
+For comprehensive documentation, please visit our [Wiki](https://github.com/oubaichmed/FlexValidator/wiki).
 
 ## 🤝 Contributing
 
@@ -228,10 +228,10 @@ FlexValidator is designed for high-performance scenarios with:
 ## 🔗 Links
 
 - [NuGet Package](https://www.nuget.org/packages/FlexValidator/)
-- [GitHub Repository](https://github.com/yourusername/FlexValidator)
-- [Documentation](https://github.com/yourusername/FlexValidator/wiki)
-- [Issue Tracker](https://github.com/yourusername/FlexValidator/issues)
+- [GitHub Repository](https://github.com/oubaichmed/FlexValidator)
+- [Documentation](https://github.com/oubaichmed/FlexValidator/wiki)
+- [Issue Tracker](https://github.com/oubaichmed/FlexValidator/issues)
 
 ---
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by Mohamed OUBAICH

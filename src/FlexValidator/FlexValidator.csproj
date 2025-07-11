@@ -20,7 +20,7 @@
 		
 		<!-- Package Information -->
 		<PackageId>FlexValidator</PackageId>
-		<PackageVersion>1.0.0</PackageVersion>
+		<PackageVersion>1.0.1</PackageVersion>
 		<Authors>OUBAICH Mohamed</Authors>
 		<Company>OUBAICH</Company>
 		<Description>A flexible and powerful validation library for .NET applications with fluent API support</Description>
